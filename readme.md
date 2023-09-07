@@ -4,7 +4,7 @@ L'objectif de ce projet est de réussir la mise en place d'un nouveau serveur SI
 
 ## BUSINESS LOGIC
 
-Nous commençons par les bases. Le message SIP SUBSCRIBE est utilisé comme un moyen pour le client de communiquer qu'il est disponible (en ligne).
+Le message SIP SUBSCRIBE est utilisé comme un moyen pour le client de communiquer qu'il est disponible (en ligne).
 
     1. Le client envoie une demande de souscription avec un en-tête expire.
     2. Le serveur SIP délègue l'authentification au serveur BIMI.
