@@ -1,0 +1,4 @@
+com\avinvivo\sip\server\security\AuthValidatorTest$SipURImock.class
+com\avinvivo\sip\server\bean\SipSubjectTest.class
+com\avinvivo\sip\server\security\AuthValidatorTest.class
+com\avinvivo\sip\server\security\AuthValidatorTest$SIPMessageMock.class
